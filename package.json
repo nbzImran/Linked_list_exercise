@@ -1,0 +1,16 @@
+{
+  "name": "dsa-arrays-linked-lists",
+  "version": "1.0.0",
+  "main": "doubly-linked-list.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^5.5.0",
+    "jest": "^24.1.0"
+  },
+  "keywords": [],
+  "description": ""
+}
